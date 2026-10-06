@@ -1,6 +1,6 @@
 # Hi, I'm Krishna Kanth 👋
 ### CSE (Data Science) Undergraduate | Java & Python Developer | AI/ML & Web Development
-I am Computer Science and Engineering (Data Science) undergraduate with practical exposure to software and web
+I am a Computer Science and Engineering (Data Science) undergraduate with practical exposure to software and web
 development through internships and projects. Familiar with Java, MySQL, and web technologies, with interest
 in problem-solving, learning new technologies, and building real-world applications.
 ## 🚀 About Me
@@ -23,7 +23,7 @@ in problem-solving, learning new technologies, and building real-world applicati
 - Data Structures & Algorithms
 - Java Development
 - Backend Development
-- Agentic AI & Machine Learining
+- Agentic AI & Machine Learning
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-kanth-jarabana-75020a290/)
 - 💻 [GitHub](https://github.com/krishnakanth-72)
