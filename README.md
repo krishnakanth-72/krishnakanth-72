@@ -6,14 +6,13 @@ in problem-solving, learning new technologies, and building real-world applicati
 ## 🚀 About Me
 - 💻 Interested in Software Development, AI/ML and Web Development
 - ☕ Working with Java, Python, MySQL and web technologies
-- 🤖 Exploring NLP, AI and intelligent applications
 - 🧩 Interested in problem-solving and building practical solutions
 - 🎯 Currently looking for internship opportunities
 ## 🛠️ Skills
- **Languages**: Java, Python (Basics), SQL
-**Web Technologies**: HTML, CSS
-**Database**: MySQL
-**Tools**: Git, GitHub, VS Code
+ **Languages**: Java, Python (Basics), SQL ||   
+**Web Technologies**: HTML, CSS ||  
+**Database**: MySQL ||   
+**Tools**: Git, GitHub, VS Code ||  
 **Core Concepts**: OOP, DBMS, Data Structures, Problem Solving
 ## 📌 Featured Projects
 ### 🤖 NLP Chatbot
