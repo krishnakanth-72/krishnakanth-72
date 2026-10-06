@@ -17,7 +17,7 @@ in problem-solving, learning new technologies, and building real-world applicati
 ## 📌 Featured Projects
 **🤖 NLP Chatbot**: A Python-based chatbot project exploring Natural Language Processing.  
 **🧠 Delphi Agent**: An AI-oriented Python project focused on intelligent application development.  
-**Python Code Analyzer**: A Python project focused on analyzing and working with source code.  
+**🔍Python Code Analyzer**: A Python project focused on analyzing and working with source code.  
 **💻 BNO Project**: A web-based project developed using PHP and related web technologies.  
 ## 📚 Currently Learning
 - Data Structures & Algorithms
