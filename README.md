@@ -2,11 +2,12 @@
 
 ### CSE (Data Science) Undergraduate | Java & Python Developer | AI/ML & Web Development
 
-I'm a Computer Science & Engineering (Data Science) undergraduate with practical experience in software and web development. I enjoy solving problems, learning new technologies, and building real-world applications.
+I am Computer Science and Engineering (Data Science) undergraduate with practical exposure to software and web
+development through internships and projects. Familiar with Java, MySQL, and web technologies, with interest
+in problem-solving, learning new technologies, and building real-world applications.
 
 ## 🚀 About Me
 
-- 🎓 CSE (Data Science) undergraduate at RVR & JC College of Engineering
 - 💻 Interested in Software Development, AI/ML and Web Development
 - ☕ Working with Java, Python, MySQL and web technologies
 - 🤖 Exploring NLP, AI and intelligent applications
@@ -15,27 +16,20 @@ I'm a Computer Science & Engineering (Data Science) undergraduate with practical
 
 ## 🛠️ Skills
 
-**Languages:** Java, Python, PHP, SQL
-
-**Web:** HTML, CSS, JavaScript
-
-**Database:** MySQL
-
-**AI/ML:** Machine Learning, NLP
-
-**Tools:** Git, GitHub, Docker
+ **Languages**: Java, Python (Basics), SQL
+**Web Technologies**: HTML, CSS
+**Database**: MySQL
+**Tools**: Git, GitHub, VS Code
+**Core Concepts**: OOP, DBMS, Data Structures, Problem Solving
 
 ## 📌 Featured Projects
 
 ### 🤖 NLP Chatbot
 A Python-based chatbot project exploring Natural Language Processing.
-
 ### 🧠 Delphi Agent
 An AI-oriented Python project focused on intelligent application development.
-
 ### 🔍 Python Code Analyzer
 A Python project focused on analyzing and working with source code.
-
 ### 💻 BNO Project
 A web-based project developed using PHP and related web technologies.
 
@@ -44,7 +38,7 @@ A web-based project developed using PHP and related web technologies.
 - Data Structures & Algorithms
 - Java Development
 - Backend Development
-- AI/ML
+- Agentic AI & Machine Learining
 - Cloud & DevOps
 
 ## 📫 Connect With Me
@@ -52,7 +46,5 @@ A web-based project developed using PHP and related web technologies.
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-kanth-jarabana-75020a290/)
 - 💻 [GitHub](https://github.com/krishnakanth-72)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/krishnakanth786/)
-
 ---
-
 ⭐ Thanks for visiting my profile!
