@@ -9,16 +9,16 @@ in problem-solving, learning new technologies, and building real-world applicati
 - 🧩 Interested in problem-solving and building practical solutions
 - 🎯 Currently looking for internship opportunities
 ## 🛠️ Skills
- **Languages**: Java, Python (Basics), SQL ||  
-**Web Technologies**: HTML, CSS ||  
-**Database**: MySQL ||  
-**Tools**: Git, GitHub, VS Code ||  
+ **Languages**: Java, Python (Basics), SQL  
+**Web Technologies**: HTML, CSS  
+**Database**: MySQL   
+**Tools**: Git, GitHub, VS Code   
 **Core Concepts**: OOP, DBMS, Data Structures, Problem Solving
 ## 📌 Featured Projects
-**🤖 NLP Chatbot**: A Python-based chatbot project exploring Natural Language Processing.
-**🧠 Delphi Agent**: An AI-oriented Python project focused on intelligent application development.
-**Python Code Analyzer**: A Python project focused on analyzing and working with source code.
-**💻 BNO Project**: A web-based project developed using PHP and related web technologies.
+**🤖 NLP Chatbot**: A Python-based chatbot project exploring Natural Language Processing.  
+**🧠 Delphi Agent**: An AI-oriented Python project focused on intelligent application development.  
+**Python Code Analyzer**: A Python project focused on analyzing and working with source code.  
+**💻 BNO Project**: A web-based project developed using PHP and related web technologies.  
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - Java Development
