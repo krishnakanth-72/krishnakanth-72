@@ -49,7 +49,7 @@ A web-based project developed using PHP and related web technologies.
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/krishna-kanth-jarabana-75020a290/)
 - 💻 [GitHub](https://github.com/krishnakanth-72)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/krishnakanth786/)
 
